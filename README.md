@@ -1,5 +1,4 @@
-
-My Python Scripts
+####My Python Scripts####
 
 ### What is this repository for? ###
 
@@ -16,7 +15,7 @@ My Python Scripts
 
 * If you have problem running them by ./SCRIPT_NAME, try python SCRIPT_NAME. Most likely you don't have
   permission to execute the file, try 'chmod u+x SCRIPT_NAME'. Otherwise you don't have the corresponding
-  sh program on the path given at first line of the script, like '#!/usr/bin/zsh'.
+  sh program on the path given at first line of the script, like '#!/usr/bin/python'.
 
 ### Who do I talk to? ###
 
