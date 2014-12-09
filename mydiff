@@ -1,0 +1,3 @@
+
+svn diff | filterdiff -x '*.json' -x '*.encode' | colordiff
+echo "svn diff | filterdiff -x '*.json' -x '*.encode' | colordiff"
