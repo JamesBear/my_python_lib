@@ -1,29 +1,23 @@
-# README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+My Python Scripts
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* All the python scripts I created during my work. Most of them Are used as an alternative to shell
+  scripts on function such as backing up files.
+
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* As long as you have python 3 installed you'll be fine. Most of the scripts are written in python 3.
+
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* If you have problem running them by ./SCRIPT_NAME, try python SCRIPT_NAME. Most likely you don't have
+  permission to execute the file, try 'chmod u+x SCRIPT_NAME'. Otherwise you don't have the corresponding
+  sh program on the path given at first line of the script, like '#!/usr/bin/zsh'.
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Contact me via javaxswing@126.com
