@@ -1,0 +1,5 @@
+
+echo "Please enter password to generate cookie:"
+read -s PASSWORD
+
+wget --load-cookies cookies.txt --save-cookies cookies.txt --keep-session-cookies -O login.html --post-data "os_username=li.xiong&os_password=$PASSWORD" http://wiki.happyelements.net/dologin.action
